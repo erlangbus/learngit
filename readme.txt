@@ -9,5 +9,5 @@ mytest.
 =======
 my test.
 my master.
-my new.15:26
+06 28
 >>>>>>> mynew
