@@ -11,3 +11,5 @@ my test.
 my master.
 06 28
 >>>>>>> mynew
+
+Creating a new branch is quick.
